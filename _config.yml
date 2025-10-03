@@ -2,6 +2,14 @@ name: "huzhao's blog"
 description: "胡钊的个人博客"
 
 avatar: https://github.com/learner-h-zh/Hu.github.io/blob/main/images/profile_picture.jpg
+navigation:
+  - name: 首页
+    url: /
+  - name: 关于
+    url: /about
+  - name: 分类
+    url: /tags
 
+paginate: 8
 
 
